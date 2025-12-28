@@ -1,0 +1,2 @@
+# Explainable-LLM-Enhanced-Phishing-Detection-Using-Transformer-Based-Models
+This project presents an explainable and context-aware phishing detection framework for email security, combining transformer-based language models with large language model (LLM) reasoning. The system performs accurate phishing classification while generating human-readable explanations to support security analysis and decision-making.
