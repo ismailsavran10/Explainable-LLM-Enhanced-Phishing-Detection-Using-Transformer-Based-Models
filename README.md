@@ -135,8 +135,11 @@ These signals are synthesized by the LLM into
 | Metric | Value |
 |------|------|
 | Binary Classification Accuracy | **99.21%** |
-| Phishing Recall | High |
-| Precision–Recall Balance | Stable |
-| Multi-Class Separation | Meaningful |
+| Phishing Precision | **98.94%** |
+| Phishing Recall (TPR) | **99.07%** |
+| F1-Score (Binary) | **99.00%** |
+| False Negative Rate (FNR) | **0.93%** |
+| ROC–AUC Score | **0.996** |
+| Multi-Class Accuracy | **96.8%** |
+| Macro F1-Score (Multi-Class) | **96.2%** |
 
----
